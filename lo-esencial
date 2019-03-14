@@ -4,7 +4,22 @@
   </head>
   
   <body>
-    <h1>Frases</h1>
-    <
+    
+ <!--END OF TABLE-->
+    <table>
+    <tr> <h1>Frases</h1> </tr>
+    <tr>
+    <td>
+      <ul>
+        <li>Gracias</li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+      </ul>
+    </td>
+    </tr>
+    </table>
+<!--END OF TABLE-->
   </body>
 </html>
