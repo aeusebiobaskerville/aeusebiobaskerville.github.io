@@ -4,6 +4,9 @@
   </head>
   
   <body>
+  <h1>Lo Esencial</h1>
+    <h2>Los esencials son muy importante.</h2>
+    
 <!--START NAVIGATION-->
     <table width="1200px">
       <td><a href="index.html">Basics</a></td>
