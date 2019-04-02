@@ -15,20 +15,32 @@
     </table>
 <!--END NAVIGATION-->
 
- <!--END OF TABLE-->
+ <!--START OF TABLE-->
+    <table>
+    <tr> <h1>Saludos</h1> </tr>
+    <tr>
+    <td>Hola</td> <td>Hello</td>
+    </tr>
+    <tr>
+    <td>Adios</td> <td>Goodbye</td>
+    </tr>
+    <tr>
+    <td>Buenos dias</td> <td>Good morning</td>
+    </tr>
+    <tr>
+    <td>Beunas tardes</td> <td>Good afternoon</td>
+    </tr>
+    <tr>
+    <td>Buenas noches</td> <td>Goodnight</td>
+    </tr>
+    </table>
+<!--END OF TABLE-->
+
+<!--START OF TABLE-->
     <table>
     <tr> <h1>Frases</h1> </tr>
     <tr>
-    <td>
-      <ul>
-        <li>Hola- Hello</li>
-        <li>Gracias</li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-      </ul>
-    </td>
+    <td> </td>
     </tr>
     </table>
 <!--END OF TABLE-->
