@@ -1,2 +1,2 @@
-# hablaespanol.github.io
+# habla-espanol.github.io
 Spanish Practice/ Espanol Practico
