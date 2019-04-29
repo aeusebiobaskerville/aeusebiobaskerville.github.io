@@ -1,5 +1,6 @@
 #page {
-   overflow: inline; 
+   overflow:center; 
+   margin: auto;
 }
 
 /* Navigation */
