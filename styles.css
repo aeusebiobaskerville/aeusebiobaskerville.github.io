@@ -1,9 +1,13 @@
-h1 {
-    color: red;
-    overflow:inline;
+#page {
+   overflow: inline; 
 }
 
 /* Navigation */
-nav {
+li {
     display:inline;
+}
+
+h1 {
+    color: red;
+    overflow:inline;
 }
